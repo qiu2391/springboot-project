@@ -15,7 +15,8 @@ import org.springframework.context.annotation.Bean;
 @MapperScan("com.qiu.mapper")
 public class Main {
     public static void main(String[] args) {
-//        System.out.println("Hello world!");
+        System.out.println("Hello world!1");
+        System.out.println("Hello world!master");
         SpringApplication.run(Main.class,args);
     }
     @Bean
