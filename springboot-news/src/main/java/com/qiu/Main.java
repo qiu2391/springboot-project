@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!1");
         System.out.println("Hello world!master");
+        System.out.println("Hello world!hot-fix");
         SpringApplication.run(Main.class,args);
     }
     @Bean
