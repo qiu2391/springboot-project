@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Hello world!master");
         System.out.println("Hello world!hot-fix");
         System.out.println("Hello github");
+        System.out.println("Hello github2");
         SpringApplication.run(Main.class,args);
     }
     @Bean
